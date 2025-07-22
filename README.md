@@ -2,7 +2,12 @@
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Turning+Ideas+Into+Code...;Lifelong+Learner+%F0%9F%93%9A;Building+One+Project+at+a+Time...+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+from+India;Open+Source+Lover+%E2%9C%A8;SSO+%7C+Java+%7C+React+%7C+Spring+Boot+Expert;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250"/>
