@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> &nbsp;
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> &nbsp; -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
 </p>
 
