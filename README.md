@@ -1,12 +1,8 @@
-__        __   _                            _          
-\ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___    
- \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \   
-  \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) |  
-   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/   
+  
 
-               👋 Welcome to my GitHub! 🚀
+             
 
-<h1 align="center">Hi, I'm Akash</h1>
+<h1 align="center"> 👋 Welcome to my GitHub! 🚀, I'm Akash</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
