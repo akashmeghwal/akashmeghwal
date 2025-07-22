@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+__        __   _                            _          
+\ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___    
+ \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \   
+  \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) |  
+   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/   
 
+               👋 Welcome to my GitHub! 🚀
+
+<h1 align="center">Hi, I'm Akash</h1>
+
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Turning+Ideas+Into+Code...;Lifelong+Learner+%F0%9F%93%9A;Building+One+Project+at+a+Time...+%F0%9F%94%A5" alt="Typing SVG" />
