@@ -52,13 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmeghwal&theme=github-dark-blue" width="45%" />
 </div>
 
----
-
-## 🛠 Projects Worth Checking
-
-- 🔐 **SSO Integration Tool** — Plug-n-play SAML, OAuth, OpenID solution  
-- 📚 **EduBridge** — Platform for mentoring and tracking student growth  
-- 💬 **Real-Time Chat App** — MERN stack chat app with WebSockets & JWT  
 
 ---
 
