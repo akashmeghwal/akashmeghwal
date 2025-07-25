@@ -15,7 +15,6 @@
 ## 🙋‍♂️ About Me
 
 - 🧑‍💻 I'm a passionate **Software Engineer from India 🇮🇳**
-- 🔭 Currently working at **miniOrange** as a **Full Stack Developer**
 - 🌱 Exploring **React**, **Node.js**, and modern **Web Security**
 - 💡 Curious about **DevSecOps**, **Cloud-native** apps & **SSO protocols**
 - 🎯 Strong believer in **"Learn it. Build it. Share it."**
